@@ -1,8 +1,12 @@
-## 👋 Hello,my name is Tiago Machado
+## 👋 Hello, my name is Tiago Machado
 
 - 🔭 I am a Full Stack Developer familiarizated with the most common technologies like Python, JS, and its frameworks Django, React, Electron and more. 
+- 
 - 🌱 I'm also a machine learning lover. My intent is to make my programs as smart as it cans, so i pass some time learning about and programing some algorithms. Thats include all process: data pré processing, modeling, testes untill reach the best models.
-- 😄 As it not enough, i'm on fourth degree of Mechatronics engeneering, because i love robots and automation. So i also know how to write some arduino and micropython code, and thats why i need to know all above. I hope you enjoy my projects.
+- 
+- 😄 As it not enough, i'm on fourth degree of Mechatronics engeneering, because i love robots and automation. So i also know how to write some arduino and micropython code, and thats why i need to know all above. 
+- 
+- ### I hope you enjoy my projects.
 
 ##
 
