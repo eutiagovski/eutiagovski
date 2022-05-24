@@ -9,11 +9,11 @@
 
 #### WebApps:
 - <a href="https://eutiagovski.github.io/camila-raeder">Clinica de Saúde e Medicina Estética Camila Raeder</a>
-- <a href="https://eutiagovski.github.io/brilho">Bilho DMX </a>
+<!-- - <a href="https://eutiagovski.github.io/brilho">Bilho DMX </a> -->
 
 #### Products
-- <a href="https://eutiagovski.github.io/brilho">Controlador Brilho para Iluminação DMX</a>
-- 
+<!-- - <a href="https://eutiagovski.github.io/brilho">Controlador Brilho para Iluminação DMX</a> -->
+
 ### I hope you enjoy!
 
 ##
