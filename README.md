@@ -5,8 +5,16 @@
 - 🌱 I'm also a machine learning lover. My intent is to make my programs as smart as it cans, so i pass some time learning about and programing some algorithms. Thats include all process: data pré processing, modeling, testes untill reach the best models.
  
 - 😄 As it not enough, i'm on fourth degree of Mechatronics engeneering, because i love robots and automation. So i also know how to write some arduino and micropython code, and thats why i need to know all above. 
- 
-### I hope you enjoy my projects.
+## My projects:
+
+#### WebApps:
+- <a href="https://eutiagovski.github.io/camila-raeder">Clinica de Saúde e Medicina Estética Camila Raeder</a>
+- <a href="https://eutiagovski.github.io/brilho">Bilho DMX </a>
+
+#### Products
+- <a href="https://eutiagovski.github.io/brilho">Controlador Brilho para Iluminação DMX</a>
+- 
+### I hope you enjoy!
 
 ##
 
