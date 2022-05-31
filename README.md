@@ -8,7 +8,8 @@
 ## My projects:
 
 #### WebApps:
-- <a href="https://eutiagovski.github.io/camila-raeder">Clinica de Saúde e Medicina Estética Camila Raeder</a>
+Stacks: ReactJs, NodeJs
+- <a href="https://www.camilaraeder.com">Clinica de Saúde e Medicina Estética Camila Raeder</a>
 <!-- - <a href="https://eutiagovski.github.io/brilho">Bilho DMX </a> -->
 
 #### Products
