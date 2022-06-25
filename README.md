@@ -8,7 +8,6 @@
 ## My projects:
 
 #### WebApps:
-Stacks: ReactJs
 - <a href="https://www.camilaraeder.com">Clinica de Saúde e Medicina Estética Camila Raeder</a>
 - <a href="https://www.wallacemarins.com">Wallace Marins Arquitetura e Interiores</a>
 <!-- - <a href="https://eutiagovski.github.io/brilho">Bilho DMX </a> -->
