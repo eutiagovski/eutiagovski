@@ -8,13 +8,10 @@
 ## My projects:
 
 #### WebApps:
-- <a href="https://www.camilaraeder.com">Clinica de Saúde e Medicina Estética Camila Raeder</a>
-- <a href="https://www.wallacemarins.com">Wallace Marins Arquitetura e Interiores</a>
-<!-- - <a href="https://eutiagovski.github.io/brilho">Bilho DMX </a> -->
+- <a href="https://github.com/eutiagovski/fivi360">FIVI 360 - 360 Image Visualize</a>
 
-#### Data Science:
-Challanges:
-- <a href="https://github.com/eutiagovski/amex-default-predicition">Amex Default Predict Challange</a>
+#### Machine Learning:
+- <a href="https://github.com/eutiagovski/fake-detector">Fake News Classifier</a>
 
 #### Products
 <!-- - <a href="https://eutiagovski.github.io/brilho">Brilho - Controlador para Iluminação DMX</a> -->
