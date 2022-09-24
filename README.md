@@ -12,9 +12,6 @@ Cientista de dados e estudante de engenharia mecatrônica, com um carinho especi
 #### Machine Learning:
 - <a href="https://github.com/eutiagovski/fake-detector">Classificador de Fake News (em desenvolvimento)</a>
 
-#### Products
-<!-- - <a href="https://eutiagovski.github.io/brilho">Brilho - Controlador para Iluminação DMX</a> -->
-<!-- - <a href="https://eutiagovski.github.io/ilinda">iLinda - Sistema para Estabelecimentos de Estética</a> -->
 
 ### Espero que gostem!
 
