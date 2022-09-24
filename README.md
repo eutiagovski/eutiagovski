@@ -1,23 +1,22 @@
-## 👋 Hello, my name is Tiago Machado
+## Olá, sou o Tiago
 
-- 🔭 I am a Full Stack Developer familiarizated with the most common technologies like Python, JS, and its frameworks Django, React, Electron and more. 
- 
-- 🌱 I'm also a machine learning lover. My intent is to make my programs as smart as it cans, so i pass some time learning about and programing some algorithms. Thats include all process: data pré processing, modeling, testes untill reach the best models.
- 
-- 😄 As it not enough, i'm on fourth degree of Mechatronics engeneering, because i love robots and automation. So i also know how to write some arduino and micropython code, and thats why i need to know all above. 
-## My projects:
+👋 👋 👋 
+
+Cientista de dados e estudante de engenharia mecatrônica, com um carinho especial por desenvolvimento. 
+
+## Projetos Recentes
 
 #### WebApps:
-- <a href="https://github.com/eutiagovski/fivi360">FIVI 360 - 360 Image Visualize</a>
+- <a href="https://github.com/eutiagovski/fivi360">FIVI 360 - Visualizador de Imagens 360º</a>
 
 #### Machine Learning:
-- <a href="https://github.com/eutiagovski/fake-detector">Fake News Classifier</a>
+- <a href="https://github.com/eutiagovski/fake-detector">Classificador de Fake News (em desenvolvimento)</a>
 
 #### Products
 <!-- - <a href="https://eutiagovski.github.io/brilho">Brilho - Controlador para Iluminação DMX</a> -->
 <!-- - <a href="https://eutiagovski.github.io/ilinda">iLinda - Sistema para Estabelecimentos de Estética</a> -->
 
-### I hope you enjoy!
+### Espero que gostem!
 
 ##
 
