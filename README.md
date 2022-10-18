@@ -11,7 +11,7 @@ Cientista de dados e estudante de engenharia mecatrônica, com um carinho especi
 
 #### Machine Learning:
 - <a href="https://github.com/eutiagovski/fake-detector">Classificador de Fake News (em desenvolvimento)</a>
-- <a href="https://github.com/eutiagovski/python-utils/tree/espvideo/core/video/ESPVideo">ESP Video Utils</a>
+- <a href="https://github.com/eutiagovski/video-utils">IA Video Utils</a>
 
 
 ### Espero que gostem!
