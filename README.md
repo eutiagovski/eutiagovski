@@ -1,3 +1,5 @@
+## Olá!
+
 👋 Bem-vindo ao meu Github! Me chamo Tiago Machado e sou desenvolvedor Fullstack e Cientista de Dados 🚀. 
 
 Atualmente, trabalho para uma empresa que presta serviços para o governo da minha cidade, onde sou responsável pelos dados que alimentam o sistema 💻.
@@ -8,15 +10,17 @@ Minha história de vida é bastante diversificada 🌈, eu comecei minha carreir
 
 Por meio do meu Github, compartilho com vocês meus projetos e aprendizados 🤝. Espero que possam se inspirar e aprender comigo! 🌟
 
-Meus Projetos:
+## Meus Projetos
 
-🚀 MktGpt - Gerador de conteúdo automático para redes sociais e marketing utilizando IA: Este é um projeto incrível que utiliza inteligência artificial para ajudar empresas e profissionais de marketing a criarem conteúdo de qualidade para suas redes sociais. O MktGpt é capaz de gerar textos, imagens e até mesmo vídeos, tornando a criação de conteúdo mais eficiente e menos trabalhosa. Você pode conferir o projeto em [https://mktgpt.com.br] e experimentar você mesmo como ele pode facilitar sua vida.
+#### 🚀 MktGpt - Gerador de conteúdo automático para redes sociais e marketing utilizando IA: Este é um projeto incrível que utiliza inteligência artificial para ajudar empresas e profissionais de marketing a criarem conteúdo de qualidade para suas redes sociais. O MktGpt é capaz de gerar textos, imagens e até mesmo vídeos, tornando a criação de conteúdo mais eficiente e menos trabalhosa. Você pode conferir o projeto em [https://mktgpt.com.br] e experimentar você mesmo como ele pode facilitar sua vida.
 
-📷 FIVI360 - Visualizador de Imagens 360°: Outro projeto impressionante, o FIVI360 é um visualizador de imagens 360° que permite ao usuário explorar um ambiente ou objeto em todos os ângulos possíveis. Com essa ferramenta, fotógrafos, arquitetos e designers podem criar uma experiência imersiva para seus clientes, mostrando todos os detalhes do ambiente de uma maneira única. Você pode conferir o projeto em [https://fivi360.web.app] e experimentar a incrível sensação de estar presente no local mesmo estando na frente do computador.
+#### 📷 FIVI360 - Visualizador de Imagens 360°: Outro projeto impressionante, o FIVI360 é um visualizador de imagens 360° que permite ao usuário explorar um ambiente ou objeto em todos os ângulos possíveis. Com essa ferramenta, fotógrafos, arquitetos e designers podem criar uma experiência imersiva para seus clientes, mostrando todos os detalhes do ambiente de uma maneira única. Você pode conferir o projeto em [https://fivi360.web.app] e experimentar a incrível sensação de estar presente no local mesmo estando na frente do computador.
 
-💆 Ilinda - Sistema para gerenciamento de Clínicas de Estética: Este é um projeto muito interessante que oferece um sistema completo para gerenciamento de clínicas de estética. Com o Ilinda, é possível gerenciar clientes, agendamentos, procedimentos e muito mais. Tudo de forma intuitiva e fácil de usar. Você pode conferir o projeto em [https://ilinda.com.br] e ver como ele pode facilitar a gestão de sua clínica de estética.
+#### 💆 Ilinda - Sistema para gerenciamento de Clínicas de Estética: Este é um projeto muito interessante que oferece um sistema completo para gerenciamento de clínicas de estética. Com o Ilinda, é possível gerenciar clientes, agendamentos, procedimentos e muito mais. Tudo de forma intuitiva e fácil de usar. Você pode conferir o projeto em [https://ilinda.com.br] e ver como ele pode facilitar a gestão de sua clínica de estética.
 
-🌟 Brilho - Hardware para controle de dispositivos DMX via Wifi incluso software para controle mobile: O Brilho é um projeto muito legal que oferece uma solução completa para controle de dispositivos DMX via Wifi. Com ele, é possível controlar luzes, efeitos e muito mais, tudo a partir de um aplicativo mobile. O projeto inclui o hardware necessário e o software para controle, tornando tudo muito mais fácil e prático. Você pode conferir o projeto em [insira aqui o link do projeto] e experimentar você mesmo como ele pode tornar a sua vida mais fácil.
+#### 🌟 Brilho - Hardware para controle de dispositivos DMX via Wifi incluso software para controle mobile: O Brilho é um projeto muito legal que oferece uma solução completa para controle de dispositivos DMX via Wifi. Com ele, é possível controlar luzes, efeitos e muito mais, tudo a partir de um aplicativo mobile. O projeto inclui o hardware necessário e o software para controle, tornando tudo muito mais fácil e prático. 
+
+## Contato 
 
 💻 Além dos meus projetos, eu compartilho meu conhecimento e experiências no LinkedIn. Lá, eu posto dicas, tendências e muito mais sobre desenvolvimento e ciência de dados.
 
