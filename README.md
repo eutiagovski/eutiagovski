@@ -51,7 +51,7 @@ Ver mais sobre o projeto: https://github.com/eutiagovski/ilinda
 
 </br>
 
-#### --> 🌟 Seibot - Ferramenta para scrapping de documentos no portal da Secretaria da Fazenda
+#### --> 💻 Seibot - Ferramenta para scrapping de documentos no portal da Secretaria da Fazenda
 
 O Seibot é um parser para facilitar a atualização de documentos no projeto em que atuo. É um projeto Nodejs, que comunica com a API do Google planilhas e a partir dos dados recebidos verifica automaticamente quais projetos sofreram atualizações no portal da Secretaria da Fazenda.
 
