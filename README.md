@@ -18,7 +18,7 @@ E por isso, através do meu Github, eu compartilho com vocês meus projetos e ap
 Espero que possam se inspirar e aprender comigo! 🌟
 
 </br>
-</br>
+
 ## Principais Projetos
 
 #### --> <a href='https://mktgpt.com.br' target='_blank'>🚀 MktGpt - Gerador de conteúdo automático para redes sociais e marketing utilizando IA</a>
@@ -29,7 +29,7 @@ Você pode conferir o projeto em [https://mktgpt.com.br] e experimentar você me
 
 Ver mais sobre o projeto: https://github.com/eutiagovski/mktgpt
 </br>
-</br>
+
 #### --> <a href='https://fivi360.web.app' target='_blank'>📷 FIVI360 - Visualizador de Imagens 360°</a>
 
 Outro projeto impressionante, o FIVI360 é um visualizador de imagens 360° que permite ao usuário explorar um ambiente ou objeto em todos os ângulos possíveis. Com essa ferramenta, fotógrafos, arquitetos e designers podem criar uma experiência imersiva para seus clientes, mostrando todos os detalhes do ambiente de uma maneira única. 
@@ -38,7 +38,7 @@ Você pode conferir o projeto em [https://fivi360.web.app] e experimentar a incr
 
 Ver mais sobre o projeto: https://github.com/eutiagovski/fivi360
 </br>
-</br>
+
 #### --> <a href='https://www.ilinda.com.br' target='_blank'>💆 Ilinda - Sistema para gerenciamento de Clínicas de Estética (em desenvolvimento)</a>
 
 Este é um projeto muito interessante que oferece um sistema completo para gerenciamento de clínicas de estética. Com o Ilinda, é possível gerenciar clientes, agendamentos, procedimentos e muito mais. Tudo de forma intuitiva e fácil de usar. Além disso, combinamos a inteligência artificial com recursos do programa para gerar uma experiência única.
@@ -47,14 +47,21 @@ Este é um projeto muito interessante que oferece um sistema completo para geren
 
 Ver mais sobre o projeto: https://github.com/eutiagovski/ilinda
 </br>
+
+#### --> 🌟 Seibot - Ferramenta para scrapping de documentos no portal da Secretaria da Fazenda
+
+O Seibot é um parser para facilitar a atualização de documentos no projeto em que atuo. É um projeto Nodejs, que comunica com a API do Google planilhas e a partir dos dados recebidos verifica automaticamente quais projetos sofreram atualizações no portal da Secretaria da Fazenda.
+
+Ver mais sobre o projeto: https://github.com/eutiagovski/seibot-js
 </br>
+
 #### --> 🌟 Brilho - Hardware para controle de dispositivos DMX via Wifi (em desenvolvimento)
 
 O Brilho é um projeto muito legal que oferece uma solução completa para controle de dispositivos DMX via Wifi. Com ele, é possível controlar luzes, efeitos e muito mais, tudo a partir de um aplicativo mobile. O projeto inclui o hardware necessário e o software para controle, tornando tudo muito mais fácil e prático.
 
 Ver mais sobre o projeto: https://github.com/eutiagovski/brilho
 </br>
-</br>
+
 ## Contato
 
 💻 Além dos meus projetos, eu compartilho meu conhecimento e experiências no LinkedIn. Lá, eu posto dicas, tendências e muito mais sobre desenvolvimento e ciência de dados.
