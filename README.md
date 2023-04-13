@@ -38,6 +38,7 @@ Outro projeto impressionante, o FIVI360 é um visualizador de imagens 360° que 
 Você pode conferir o projeto em [https://fivi360.web.app] e experimentar a incrível sensação de estar presente no local mesmo estando na frente do computador.
 
 Ver mais sobre o projeto: https://github.com/eutiagovski/fivi360
+
 </br>
 
 #### --> <a href='https://www.ilinda.com.br' target='_blank'>💆 Ilinda - Sistema para gerenciamento de Clínicas de Estética (em desenvolvimento)</a>
