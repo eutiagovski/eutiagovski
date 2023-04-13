@@ -28,6 +28,7 @@ Este é um projeto incrível que utiliza inteligência artificial para ajudar a 
 Você pode conferir o projeto em [https://mktgpt.com.br] e experimentar você mesmo como ele pode facilitar sua vida.
 
 Ver mais sobre o projeto: https://github.com/eutiagovski/mktgpt
+
 </br>
 
 #### --> <a href='https://fivi360.web.app' target='_blank'>📷 FIVI360 - Visualizador de Imagens 360°</a>
@@ -46,6 +47,7 @@ Este é um projeto muito interessante que oferece um sistema completo para geren
  Você pode conferir o projeto e solicitar um convite para experimentar em [https://www.ilinda.com.br] e vai ver como ele pode facilitar a gestão de sua clínica.
 
 Ver mais sobre o projeto: https://github.com/eutiagovski/ilinda
+
 </br>
 
 #### --> 🌟 Seibot - Ferramenta para scrapping de documentos no portal da Secretaria da Fazenda
@@ -53,6 +55,7 @@ Ver mais sobre o projeto: https://github.com/eutiagovski/ilinda
 O Seibot é um parser para facilitar a atualização de documentos no projeto em que atuo. É um projeto Nodejs, que comunica com a API do Google planilhas e a partir dos dados recebidos verifica automaticamente quais projetos sofreram atualizações no portal da Secretaria da Fazenda.
 
 Ver mais sobre o projeto: https://github.com/eutiagovski/seibot-js
+
 </br>
 
 #### --> 🌟 Brilho - Hardware para controle de dispositivos DMX via Wifi (em desenvolvimento)
@@ -60,6 +63,7 @@ Ver mais sobre o projeto: https://github.com/eutiagovski/seibot-js
 O Brilho é um projeto muito legal que oferece uma solução completa para controle de dispositivos DMX via Wifi. Com ele, é possível controlar luzes, efeitos e muito mais, tudo a partir de um aplicativo mobile. O projeto inclui o hardware necessário e o software para controle, tornando tudo muito mais fácil e prático.
 
 Ver mais sobre o projeto: https://github.com/eutiagovski/brilho
+
 </br>
 
 ## Contato
@@ -69,5 +73,3 @@ Ver mais sobre o projeto: https://github.com/eutiagovski/brilho
 📷 E se você quiser saber um pouco mais sobre mim, pode me seguir no Instagram em [https://www.instagram.com/eutiagovski/]. Lá eu compartilho minha rotina, hobbies e projetos pessoais.
 
 ✉️ E se você quiser entrar em contato diretamente comigo, é só enviar um email para [tiagomachadodev@gmail.com]. Adoro conhecer novas pessoas e trocar experiências na área de tecnologia.
-
-Então, se você quer acompanhar um desenvolvedor e cientista de dados apaixonado por tecnologia e inovação, é só me seguir agora mesmo! Vamos juntos descobrir as possibilidades incríveis que a tecnologia nos oferece. 🚀
