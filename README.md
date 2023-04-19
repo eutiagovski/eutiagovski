@@ -41,6 +41,17 @@ Ver mais sobre o projeto: https://github.com/eutiagovski/fivi360
 
 </br>
 
+
+#### --> <a href='https://classificador-fakenews.herokuapp.com/' target='_blank'>🐱‍👤 Classificador Brasileiro de Fake News</a>
+
+Este projeto é uma prova de conceito sobre o uso da Inteligência Artificial para classificação de notícias brasileiras. Utilizando técnicas de aprendizado de máquina, treinamos um modelo com mais de 5 mil notícias verdadeiras e falsas, e obtemos desse treinamento características que possibilitam a classificação de um novo texto. 
+
+Você pode conferir o projeto em [https://classificador-fakenews.herokuapp.com/] e conferir a veracidade das suas próprias notícias (dentro das capacidades do algorítimo).
+
+Ver mais sobre o projeto: https://github.com/eutiagovski/fakenews-clf
+
+</br>
+
 #### --> <a href='https://www.ilinda.com.br' target='_blank'>💆 Ilinda - Sistema para gerenciamento de Clínicas de Estética (em desenvolvimento)</a>
 
 Este é um projeto muito interessante que oferece um sistema completo para gerenciamento de clínicas de estética. Com o Ilinda, é possível gerenciar clientes, agendamentos, procedimentos e muito mais. Tudo de forma intuitiva e fácil de usar. Além disso, combinamos a inteligência artificial com recursos do programa para gerar uma experiência única.
