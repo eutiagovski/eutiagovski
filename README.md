@@ -1,4 +1,3 @@
-
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 # Top Projects
@@ -13,6 +12,7 @@
 </a>
 
 ### Web Development
+
 <a href="https://github.com/eutiagovski/mktgpt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eutiagovski&repo=mktgpt&theme=dark#gh-dark-mode-only" />
 </a>
@@ -34,6 +34,7 @@
 <br/>
 
 # Stacks
+
 ### Languages
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -68,7 +69,31 @@
 ![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# Get In Touch
+<br/>
+
+# Get in touch
+
+<ul>
+  <li >
+    <a href='https://www.linkedin.com/in/tiagomachadodev'>
+      <!-- <img align="center" height=70 src="https://camo.githubusercontent.com/7b5b0349dda7aa9f8d1357d63467df68b17e894e9efcbbd0c8d10b4789444fce/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63652f30392f33632f63653039336337323134616433353762623636356366643266363661386236622e706e67" /> -->
+    <p>Check my profile page at Linkedin</p>
+    </a>
+  </li>
+  <li>
+    <a href='https://medium.com/@eutiagovski'>
+      <!-- <img align='center' height=70 src='https://cdn-icons-png.flaticon.com/512/5968/5968906.png' /> -->
+    <p>Read my articles at Medium</p>
+    </a>
+  </li>
+    <li>
+    <a href='https://www.kaggle.com/eutiagovski'>
+      <!-- <img align='center' src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' /> -->
+    <p>Check my public datasets at Kaggle</p>
+    </a>
+  </li>
+ 
+</ul>
 
 <!-- ### Contato
 
@@ -78,7 +103,7 @@
 
 ✉️ E se você quiser entrar em contato diretamente comigo, é só enviar um email para [tiagomachadodev@gmail.com]. Adoro conhecer novas pessoas e trocar experiências na área de tecnologia. -->
 
-<!-- 
+<!--
 Reference:
-https://medium.com/@kaustav_g/take-your-github-profile-from-zero-to-hero-with-these-10-hacks-b6b5ffe3d065 
+https://medium.com/@kaustav_g/take-your-github-profile-from-zero-to-hero-with-these-10-hacks-b6b5ffe3d065
 -->
