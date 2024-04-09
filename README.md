@@ -1,61 +1,84 @@
-## 👋 Bem-vindo ao meu Github!
 
-Me chamo Tiago Machado e sou desenvolvedor Fullstack e Cientista de Dados 🚀.
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-Atualmente, a minha paixão por tecnologia e desenvolvimento é o meu principal trabalho. Eu desenvolvo aplicativos usando as principais tecnologias da atualidade, e acredito que o desenvolvimento é uma forma muito criativa de criar soluções para os desafios que enfrentamos diariamente 💡. 
+# Top Projects
 
+### Data Science
 
-Essa necessidade constante de criar soluções foi o que me levou a me apaixonar pela área 💻.
+<a href="https://github.com/eutiagovski/movie-recomendation-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eutiagovski&repo=movie-recomendation-system&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/eutiagovski/fakenews-clf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eutiagovski&repo=fakenews-classifier&theme=dark#gh-dark-mode-only" />
+</a>
 
+### Web Development
+<a href="https://github.com/eutiagovski/mktgpt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eutiagovski&repo=mktgpt&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/eutiagovski/fivi360">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eutiagovski&repo=fivi360&theme=dark#gh-dark-mode-only" />
+</a>
 
-Através do meu Github, eu compartilho com vocês meus projetos e aprendizados 🤝.
+<br/>
 
-Espero que possam se inspirar e aprender comigo! 🌟
+# Statistics
 
-</br>
+<a href="https://github.com/eutiagovski">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eutiagovski&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/eutiagovski">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eutiagovski&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" />
+</a>
 
-## Principais Projetos
+<br/>
 
-#### --> <a href='https://fivi360.web.app' target='_blank'>📷 FIVI360 - Visualizador de Imagens 360°</a>
+# Stacks
+### Languages
 
-Outro projeto impressionante, o FIVI360 é um visualizador de imagens 360° que permite ao usuário explorar um ambiente ou objeto em todos os ângulos possíveis. Com essa ferramenta, fotógrafos, arquitetos e designers podem criar uma experiência imersiva para seus clientes, mostrando todos os detalhes do ambiente de uma maneira única. 
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-Você pode conferir o projeto em [https://fivi360.web.app] e experimentar a incrível sensação de estar presente no local mesmo estando na frente do computador.
+### Development
 
-Ver mais sobre o projeto: https://github.com/eutiagovski/fivi360
+![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-</br>
+### Database
 
-#### --> <a href='https://mktgpt.com.br' target='_blank'>🚀 MktGpt - Gerador de conteúdo automático para redes sociais e marketing utilizando IA</a>
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Este é um projeto incrível que utiliza inteligência artificial para ajudar a influêncers e profissionais de marketing a criarem conteúdo de qualidade para suas redes sociais. O MktGpt é capaz de gerar textos para diversas finalidades, tornando a criação de conteúdo mais eficiente e menos trabalhosa. 
+### Machine Learning
 
-Você pode conferir o projeto em [https://mktgpt.com.br] e experimentar você mesmo como ele pode facilitar sua vida.
+![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
-Ver mais sobre o projeto: https://github.com/eutiagovski/mktgpt
+### Data Analytics
 
-</br>
+![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-#### --> 💻 Seibot - Ferramenta para scrapping de documentos no portal da Secretaria da Fazenda
+### Tools
 
-O Seibot é um parser para facilitar a atualização de documentos no projeto em que atuo. É um projeto Nodejs, que comunica com a API do Google planilhas e a partir dos dados recebidos verifica automaticamente quais projetos sofreram atualizações no portal da Secretaria da Fazenda.
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Ver mais sobre o projeto: https://github.com/eutiagovski/seibot-js
+# Get In Touch
 
-</br>
-
-#### --> 🌟 Brilho - Hardware para controle de dispositivos DMX via Wifi (em desenvolvimento)
-
-O Brilho é um projeto muito legal que oferece uma solução completa para controle de dispositivos DMX via Wifi. Com ele, é possível controlar luzes, efeitos e muito mais, tudo a partir de um aplicativo mobile. O projeto inclui o hardware necessário e o software para controle, tornando tudo muito mais fácil e prático.
-
-Ver mais sobre o projeto: https://github.com/eutiagovski/brilho
-
-
-
-## Contato
+<!-- ### Contato
 
 💻 Além dos meus projetos, eu compartilho meu conhecimento e experiências no LinkedIn. Lá, eu posto dicas, tendências e muito mais sobre desenvolvimento e ciência de dados.
 
 📷 E se você quiser saber um pouco mais sobre mim, pode me seguir no Instagram em [https://www.instagram.com/eutiagovski/]. Lá eu compartilho minha rotina, hobbies e projetos pessoais.
 
-✉️ E se você quiser entrar em contato diretamente comigo, é só enviar um email para [tiagomachadodev@gmail.com]. Adoro conhecer novas pessoas e trocar experiências na área de tecnologia.
+✉️ E se você quiser entrar em contato diretamente comigo, é só enviar um email para [tiagomachadodev@gmail.com]. Adoro conhecer novas pessoas e trocar experiências na área de tecnologia. -->
+
+<!-- 
+Reference:
+https://medium.com/@kaustav_g/take-your-github-profile-from-zero-to-hero-with-these-10-hacks-b6b5ffe3d065 
+-->
